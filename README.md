@@ -1,5 +1,5 @@
 # CSC221-Belik-GroupProject
-Group Project for CSC221
+Group Project for CSC221 2024 FA
 
 __Owner:__ Collin Belik (collin.belik@gmail.com)
 
