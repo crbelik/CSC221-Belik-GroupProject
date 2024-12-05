@@ -8,4 +8,4 @@ __Project Description:__ This is a web scraping project that will gather data of
 
 __Webscraped URL:__ Countries by number of mobile numbers in use: [https://en.wikipedia.org/wiki/List_of_countries_by_number_of_mobile_numbers_in_use]
 
-__Collaborator:__ James Child (jbchild@my.waketech.edu)
+__Collaborator:__ James Child (jbchild@my.waketech.edu) ACCEPTED
